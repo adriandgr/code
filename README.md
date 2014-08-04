@@ -1,4 +1,5 @@
-code
-====
+learn Adruino + Processing
+==========================
 
-Programming Boot Camp by Nick Leowen and Adrian Diaz
+This is the GitHub repository for the "learn Arduino + Processing" website. Switch to the `gh-pages` branch
+to view the Jekyll source code.
