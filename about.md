@@ -4,12 +4,11 @@ title: about
 permalink: /about/
 ---
 
-Programming Boot Camp by [Nick Leowen](http://www.nloewen.com/) and [Adrian Diaz](http://www.adriandiaz.ca/)
 
 ### `print("Hello, class!");`
 
 
-### What To Expect From This Course
+### what to expect from this course
 
 This course will not teach you everything to know about programming or
 electronics. But it will teach you valuable things. It will teach you the
@@ -29,7 +28,7 @@ Then we will learn about electronics, and build simple projects with the use the
 the computational and interactive elements of programming into the physical world.
 
 
-### Why do we need a GitHub course plan?
+### why do we need a GitHub course plan?
 
 We're both thrilled to see that you're enjoying the workshops that we've prepared for
 you so far. Now, that you've had a bit of exposure to the world of
