@@ -1,7 +1,7 @@
 ---
 layout: contributor
 title: Adrian Diaz
-author: adrian
+author: nick
 ---
 
 Nick time
