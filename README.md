@@ -1,4 +1,4 @@
-code
-====
+Jekyll Source Files
+===================
 
-Programming Boot Camp by Nick Leowen and Adrian Diaz
+The "learn Arduino + Processing" website is rendered by GitHub using Jekyll.
