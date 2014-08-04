@@ -26,3 +26,8 @@ authors:
     display_name: Nick
     web: http://www.nloewen.com/
     github: nickloewen
+
+collections:
+  contributors:
+    output: true
+    permalink: /contributors/:path/

@@ -1,5 +1,6 @@
 ---
-layout: contributor
+layout: contributors
 title: Adrian Diaz
-permalink: /contributors/adrian/
 ---
+
+About him
