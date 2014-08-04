@@ -1,5 +1,5 @@
 ---
-layout: contributors
+layout: contributor
 title: Adrian Diaz
 ---
 
