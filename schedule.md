@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Schedule
+title: course schedule
 permalink: /schedule/
 ---
 
