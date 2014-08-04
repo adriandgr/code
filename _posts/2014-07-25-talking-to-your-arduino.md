@@ -9,8 +9,8 @@ categories: plan
 review
 ------
 
-- [functions](../resources/functionsAndLoops.md) (Nick)
-- [basic electronics concepts](../resources/electronics.md) (Adrian)
+- [functions]({{site.baseurl }}/resources/functions-and-loops/) (Nick)
+- [basic electronics concepts]({{site.baseurl }}/resources/electronics/) (Adrian)
     - current, voltage, resistance, ohm's law
     - AC vs DC!
     - how to use a multimeter?
