@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-08-03 20:59:48
+author: adrian
 categories: jekyll update
 ---
 
