@@ -1,6 +1,6 @@
 ---
 layout: contributor
-title: Adrian Diaz
+title: Nick Loewen
 author: nick
 ---
 
