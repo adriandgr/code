@@ -2,7 +2,7 @@
 layout: post
 title:  "talking to your Arduino"
 date:   2014-07-25 16:59:48
-categories: jekyll update
+categories: plan
 ---
 
 review

@@ -2,7 +2,7 @@
 title: learn Arduino + Processing
 email: web.art@adriandiaz.ca
 description: "Programming Boot Camp by Nick Leowen and Adrian Diaz."
-baseurl: "http://adriandgr.github.io/code"
+baseurl: "http://adriandgr.github.io/code/"
 url: "http://adriandgr.github.io/"
 twitter_username: adgr72
 github_username:  adriandgr
@@ -15,6 +15,7 @@ authors:
   adrian:
     name: Adrian Diaz
     display_name: Adrian
+    profile: adrian
     gravatar: 1092e44f33d0454dfb580e19f3687ce8
     email: web.art@adriandiaz.ca
     web: http://www.adriandiaz.ca/
