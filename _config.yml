@@ -32,3 +32,6 @@ collections:
   contributors:
     output: true
     permalink: /contributors/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
