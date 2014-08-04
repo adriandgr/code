@@ -4,21 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Learn Arduino + Processing `2014`
 Programming Boot Camp by [Nick Leowen](http://www.nloewen.com/) and [Adrian Diaz](http://www.adriandiaz.ca/)
 
 ### `print("Hello, class!");`
-
-### Why do we need a GitHub course plan?
-
-We're both thrilled to see that you're enjoying the workshops that we've prepared for
-you so far. Now, that you've had a bit of exposure to the world of
-[Arduino](http://arduino.cc/) and [Processing](http://processing.org/),
-we believe that we'll all benefit from some added structure to focus our goals
-and have the best use of our time.
-
-Please refer to the course schedule before to look at detailed lesson plans and
-summarized notes to help you along the way.
 
 
 ### What To Expect From This Course
@@ -39,3 +27,15 @@ computer language.
 Then we will learn about electronics, and build simple projects with the use the
 `Arduino` platform. We'll learn useful techniques and skills necessary to bring
 the computational and interactive elements of programming into the physical world.
+
+
+### Why do we need a GitHub course plan?
+
+We're both thrilled to see that you're enjoying the workshops that we've prepared for
+you so far. Now, that you've had a bit of exposure to the world of
+[Arduino](http://arduino.cc/) and [Processing](http://processing.org/),
+we believe that we'll all benefit from some added structure to focus our goals
+and have the best use of our time.
+
+Please refer to the course schedule before to look at detailed lesson plans and
+summarized notes to help you along the way.
