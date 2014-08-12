@@ -149,7 +149,7 @@ a:visited { color: #205caa; }
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
-  margin-bottom: 25px; 
+  margin-bottom: 25px;
   }
 
 .posts { list-style-type: none; }
@@ -167,6 +167,67 @@ a:visited { color: #205caa; }
   font-size: 15px;
   color: #818181;
 }
+
+/* Splash Page */
+
+div#splashDiv {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -350px;
+	margin-top:-350px;
+	z-index: 500;
+}
+
+#splashCanvas {
+	display: block;
+	background: transparent;
+	outline: 0px;
+	width: 700px;
+	height: 700px;
+}
+
+div#splashHeader {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	min-width: 700px;
+	text-align: center;
+	z-index: 1000;
+	pointer-events:none;
+}
+
+h1#splashTitle {
+	display: none;
+	font-family: 'theSerif', georgia, times, serif;
+	font-size: 6em;
+	margin: 0;
+	padding: 0;
+	color: #5E86A3;
+}
+
+div#splashNav {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -1000px;
+	z-index:1000;
+}
+
+a#splashButton {
+	font-family: 'theSerif', georgia, times, serif;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+a#splashButton:hover {
+	display: none;
+	text-decoration:none;
+	color: #E56498;
+}
+
+
 
 
 /* Post styles */
