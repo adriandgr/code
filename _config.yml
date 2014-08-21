@@ -15,6 +15,7 @@ authors:
   both:
     name: Adrian Diaz and Nick Lowen
     display_name: Adrian and Nick
+    profile: both
   adrian:
     name: Adrian Diaz
     display_name: Adrian
