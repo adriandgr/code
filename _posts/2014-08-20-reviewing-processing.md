@@ -27,6 +27,8 @@ any let's list a few of the reasons why they were necessary
 
 **Question:** Which of the following are variables
 
+<code>hsfjh</code>
+
       h
 
 new material
