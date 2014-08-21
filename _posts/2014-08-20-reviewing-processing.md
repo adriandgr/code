@@ -20,6 +20,14 @@ your programs.
 review
 ------
 
+### Why do we need variables?
+
+Let's discuss amongst ourselves the different kinds of variables we've encountered so far
+any let's list a few of the reasons why they were necessary
+
+**Question:** Which of the following are variables
+
+      h
 
 new material
 ------------
