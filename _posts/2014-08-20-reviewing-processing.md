@@ -27,14 +27,11 @@ any let's list a few of the reasons why they were necessary
 
 **Question:** Which of the following are variables
 
-<code>hsfjh</code>
-
-      def
-
-```python
-def
-
-```
+      String name = Charlie;
+      rect(30, 20, 55, 55);
+      int age = 23;
+      color c1 = color(204, 153, 0);
+      boolean ofAge = true;
 
 new material
 ------------
