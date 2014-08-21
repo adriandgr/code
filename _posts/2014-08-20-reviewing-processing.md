@@ -2,7 +2,7 @@
 layout: post
 title:  "reviewing Processing"
 date:   2014-08-20 18:59:48
-author: adrian
+author: both
 categories: plan
 ---
 
